@@ -1,0 +1,23 @@
+{
+    "TipoDeCama": [
+      {"id":1, "quantidade": 5, "tipo": "Beliche"},
+      {"id":2, "quantidade": 55, "tipo": "KingSize"},
+      {"id":3, "quantidade": 2, "tipo": "Solteiro"},
+    ],
+   "TipoDeQuartos": [
+      {"id":1, "quantidadeTotal": 5, "Preço": 79.50, "quantidadeCamas": 12, "quantidadeAdultos": 2, "quantidadeCrianças": 1},
+      {"id":2, "quantidadeTotal": 3, "Preço": 19.50, "quantidadeCamas": 16, "quantidadeAdultos": 3, "quantidadeCrianças": 1},
+      {"id":3, "quantidadeTotal": 12, "Preço": 45.50, "quantidadeCamas": 1, "quantidadeAdultos": 2, "quantidadeCrianças": 2},
+    ],
+   "Itens": [
+      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preço": 38.78, "idTipoDeQuartos": 1},
+      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preço": 56.8, "idTipoDeQuartos": 2},
+      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preço": 10, "idTipoDeQuartos": 3},
+    ],
+   "Quartos": [
+      {"id":1, "situação": "Disponivel", "numero": 71, "idTipoDeQuarto": 2},
+      {"id":2, "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 1},
+      {"id":3, "situação": "Em manutenção", "numero": 139, "idTipoDeQuarto": 2},
+    ],
+
+}
