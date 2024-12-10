@@ -1,7 +1,7 @@
 {
-  "tipoDeCama": [
+  "tipoDeCama":[
     {"id":1, "quantidade": 5, "tipo": "Beliche"},
     {"id":2, "quantidade": 55, "tipo": "KingSize"},
     {"id":3, "quantidade": 2, "tipo": "Solteiro"},
-  ],
+  ]
 }
