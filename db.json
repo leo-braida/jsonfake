@@ -19,16 +19,5 @@
     {"id":2, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
     {"id":3, "horarioInicio":"10:00", "horarioFim":"12:40", "dias":"Seg-Ter-Qua", "idServico":2},
     {"id":4, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3}
-  ],
-  "gruposPorAgenda":[
-    {"id":1, "idTrabalhador":3, "idAgenda":1},
-    {"id":2, "idTrabalhador":2, "idAgenda":1},
-    {"id":2, "idTrabalhador":2, "idAgenda":3},
-    {"id":3, "idTrabalhador":1, "idAgenda":4}
-  ],
-  "agendamentos":[
-    {"id":1,"horarioInicio":  "10:00","idHospedagem":1,"idAgenda":1},
-    {"id":2,"horarioInicio":"14:00","idHospedagem":1,"idAgenda":2},
-    {"id":3,"horarioInicio":"15:00","idHospedagem":2,"idAgenda":3}
   ]
 }
