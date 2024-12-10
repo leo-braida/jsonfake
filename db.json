@@ -12,23 +12,23 @@
   "servicos":[
     {"id":1, "nome":"Massagem", "descricao":"Massagem do Mateus e Lorran", "preco":0, "idHotel":2, "minutosPorAgendamento":60},
     {"id":2, "nome":"Jogar bola com o Lorran", "descricao":"Partida de futebol com o jogador Lorran", "preco":10000.00, "idHotel":1, "minutosPorAgendamento":"0"},
-    {"id":3, "nome":"Papo com o Léo", "descricao":"Papo sério com o Léo", "preco":999999.99, "idHotel":1, "minutosPorAgendamento":5},
+    {"id":3, "nome":"Papo com o Léo", "descricao":"Papo sério com o Léo", "preco":999999.99, "idHotel":1, "minutosPorAgendamento":5}
   ],
   "agendas":[
     {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
     {"id":2, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
     {"id":3, "horarioInicio":"10:00", "horarioFim":"12:40", "dias":"Seg-Ter-Qua", "idServico":2},
-    {"id":4, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3},
+    {"id":4, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3}
   ],
   "gruposPorAgenda":[
     {"id":1, "idTrabalhador":3, "idAgenda":1},
     {"id":2, "idTrabalhador":2, "idAgenda":1},
     {"id":2, "idTrabalhador":2, "idAgenda":3},
-    {"id":3, "idTrabalhador":1, "idAgenda":4},
+    {"id":3, "idTrabalhador":1, "idAgenda":4}
   ],
   "agendamentos":[
     {"id":1,"horarioInicio":  "10:00","idHospedagem":1,"idAgenda":1},
     {"id":2,"horarioInicio":"14:00","idHospedagem":1,"idAgenda":2},
-    {"id":3,"horarioInicio":,"idHospedagem":2,"idAgenda":3},
-  ],
+    {"id":3,"horarioInicio":,"idHospedagem":2,"idAgenda":3}
+  ]
 }
