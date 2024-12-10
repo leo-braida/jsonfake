@@ -10,9 +10,9 @@
     {"id":3, "nome":"Hotel Hotel", "estado":"RJ", "cidade":"Rio de Janeiro", "cep":"74747-474", "bairro":"Bairro do RJ", "logradouro":"Rua do RJ", "numero":"10", "telefone":"77978945612", "celular":"77945612378", "email":"errejota@hoteleo.com"}
   ],
   "servicos":[
-    {"id":1, "nome":"Massagem", "descricao":"Massagem do Mateus e Lorran", "preco":0, "idHotel":2, "minutosPorAgendamento"="60"},
-    {"id":2, "nome":"Jogar bola com o Lorran", "descricao":"Partida de futebol com o jogador Lorran", "preco":10000.00, "idHotel":1, "minutosPorAgendamento"=""},
-    {"id":3, "nome":"Papo com o Léo", "descricao":"Papo sério com o Léo", "preco":999999.99, "idHotel":1, "minutosPorAgendamento"="5"},
+    {"id":1, "nome":"Massagem", "descricao":"Massagem do Mateus e Lorran", "preco":0, "idHotel":2, "minutosPorAgendamento":60},
+    {"id":2, "nome":"Jogar bola com o Lorran", "descricao":"Partida de futebol com o jogador Lorran", "preco":10000.00, "idHotel":1, "minutosPorAgendamento":"0"},
+    {"id":3, "nome":"Papo com o Léo", "descricao":"Papo sério com o Léo", "preco":999999.99, "idHotel":1, "minutosPorAgendamento":5},
   ],
   "agendas":[
     {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
