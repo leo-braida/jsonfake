@@ -34,4 +34,15 @@
         {"id": 2, "checkIn": "13/08/2023", "checkOut": "16/08/2023", "idHospede": 1, "adultos": 3, "crianças": 0, "idQuartos": "1", "idServicos": "1", "idItens": "1"},
         {"id": 3, "checkIn": "21/09/2023", "checkOut": "27/09/2023", "idHospede": 2, "adultos": 1, "crianças": 2, "idQuartos": "2", "idServicos": "2", "idItens": "2"},
     ],
+    "gruposPorAgenda":[
+        {"id":1, "idTrabalhador":3, "idAgenda":1},
+        {"id":2, "idTrabalhador":2, "idAgenda":1},
+        {"id":2, "idTrabalhador":2, "idAgenda":3},
+        {"id":3, "idTrabalhador":1, "idAgenda":4}
+      ],
+    "agendamentos":[
+        {"id":1,"horarioInicio":  "10:00","idHospedagem":1,"idAgenda":1},
+        {"id":2,"horarioInicio":"14:00","idHospedagem":1,"idAgenda":2},
+        {"id":3,"horarioInicio":"15:00","idHospedagem":2,"idAgenda":3}
+      ],
 }
