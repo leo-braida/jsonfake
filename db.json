@@ -4,6 +4,11 @@
     {"id":2, "nome":"Jogar bola com o Lorran", "descricao":"Partida de futebol com o jogador Lorran", "preco":10000.00, "idHotel":1, "minutosPorAgendamento":"0"},
     {"id":3, "nome":"Papo com o Léo", "descricao":"Papo sério com o Léo", "preco":999999.99, "idHotel":1, "minutosPorAgendamento":5}
   ],
+   "tipoDeQuartos": [
+      {"id":1, "quantidadeTotal": 5, "Preço": 79.50, "quantidadeCamas": 12, "quantidadeAdultos": 2, "quantidadeCrianças": 1},
+      {"id":2, "quantidadeTotal": 3, "Preço": 19.50, "quantidadeCamas": 16, "quantidadeAdultos": 3, "quantidadeCrianças": 1},
+      {"id":3, "quantidadeTotal": 12, "Preço": 45.50, "quantidadeCamas": 1, "quantidadeAdultos": 2, "quantidadeCrianças": 2},
+    ],
   "tipoDeCama":[
     {"id":1, "quantidade": 5, "tipo": "Beliche"},
     {"id":2, "quantidade": 55, "tipo": "KingSize"},
