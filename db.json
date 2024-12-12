@@ -60,4 +60,10 @@
         {"id":2, "nome":"oTheo", "estado":"PA", "cidade":"Fora do Juiz", "cep":"12312-31", "bairro":"Bairro do Theo", "logradouro":"Rua do Theo", "numero":"2", "telefone":"98987654321", "celular":"", "email":"otheo@hoteleo.com"},
         {"id":3, "nome":"Hotel Hotel", "estado":"RJ", "cidade":"Rio de Janeiro", "cep":"74747-474", "bairro":"Bairro do RJ", "logradouro":"Rua do RJ", "numero":"10", "telefone":"77978945612", "celular":"77945612378", "email":"errejota@hoteleo.com"}
       ],
+      "agendas":[
+        {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
+        {"id":2, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
+        {"id":3, "horarioInicio":"10:00", "horarioFim":"12:40", "dias":"Seg-Ter-Qua", "idServico":2},
+        {"id":4, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3}
+      ]
 }
