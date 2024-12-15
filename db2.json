@@ -10,10 +10,15 @@
       {"id":3, "quantidadeTotal": 12, "Preço": 45.50, "quantidadeCamas": 1, "quantidadeAdultos": 2, "quantidadeCrianças": 2},
     ],
    "itens": [
-      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preço": 38.78, "idTipoDeQuartos": 1},
-      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preço": 56.8, "idTipoDeQuartos": 2},
-      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preço": 10, "idTipoDeQuartos": 3},
+      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preço": 38.78},
+      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preço": 56.8},
+      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preço": 10},
     ],
+    "itemNoQuarto": [
+        {"id":1, "idQuarto":1, "idItem":1},
+        {"id":2, "idQuarto":1, "idItem":2},
+        {"id":3, "idQuarto":2, "idItem":1},
+    ]
    "quartos": [
       {"id":1, "situação": "Disponivel", "numero": 71, "idTipoDeQuarto": 2},
       {"id":2, "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 1},
