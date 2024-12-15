@@ -6,9 +6,9 @@
       {"id":4, "quantidade": 2, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCrianças": 1}
     ],
    "tipoDeQuartos": [
-      {"id":1, "quantidadeTotal": 5, "Preço": 79.50},
-      {"id":2, "quantidadeTotal": 3, "Preço": 19.50},
-      {"id":3, "quantidadeTotal": 12, "Preço": 45.50}
+      {"id":1, "quantidadeTotal": 5, "preco": 79.50},
+      {"id":2, "quantidadeTotal": 3, "preco": 19.50},
+      {"id":3, "quantidadeTotal": 12, "preco": 45.50}
     ],
     "tipoCamaNoQuarto": [
         {"id": 1, "idQuarto": 1, "idTipoCama": 1, "quantidadeCama": 2},
@@ -18,9 +18,9 @@
         {"id": 5, "idQuarto": 1, "idTipoCama": 4, "quantidadeCama": 1}
     ],
    "itens": [
-      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preço": 38.78},
-      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preço": 56.8},
-      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preço": 10}
+      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preco": 38.78},
+      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preco": 56.8},
+      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10}
     ],
     "itemNoQuarto": [
         {"id":1, "idQuarto":1, "idItem":1},
