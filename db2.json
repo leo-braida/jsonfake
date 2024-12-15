@@ -18,7 +18,7 @@
         {"id":1, "idQuarto":1, "idItem":1},
         {"id":2, "idQuarto":1, "idItem":2},
         {"id":3, "idQuarto":2, "idItem":1},
-    ]
+    ],
    "quartos": [
       {"id":1, "situação": "Disponivel", "numero": 71, "idTipoDeQuarto": 2},
       {"id":2, "situação": "Requer manutenção", "numero": 22, "idTipoDeQuarto": 1},
