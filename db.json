@@ -23,8 +23,8 @@
       {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10}
     ],
     "itemNoQuarto": [
-        {"id":1, "idQuarto":1, "idItem":1},
-        {"id":2, "idQuarto":1, "idItem":2},
-        {"id":3, "idQuarto":2, "idItem":1}
+        {"id":1, "idQuarto":1, "idItem":1, "quantidade":2},
+        {"id":2, "idQuarto":1, "idItem":2, "quantidade": 1},
+        {"id":3, "idQuarto":2, "idItem":1, "quantidade": 1}
     ]
 }
