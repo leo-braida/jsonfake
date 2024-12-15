@@ -26,5 +26,5 @@
         {"id":1, "idQuarto":1, "idItem":1},
         {"id":2, "idQuarto":1, "idItem":2},
         {"id":3, "idQuarto":2, "idItem":1},
-    ]
+    ],
 }
