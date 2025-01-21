@@ -1,9 +1,9 @@
 {
    "tipoDeCama": [
-      {"id":1, "quantidade": 5, "tipo": "Beliche", "quantidadeAdultos": 0, "quantidadeCrianças": 2},
-      {"id":2, "quantidade": 55, "tipo": "KingSize", "quantidadeAdultos": 2, "quantidadeCrianças": 0},
-      {"id":3, "quantidade": 2, "tipo": "Solteiro", "quantidadeAdultos": 1, "quantidadeCrianças": 0},
-      {"id":4, "quantidade": 2, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCrianças": 1}
+      {"id":1, "quantidade": 5, "tipo": "Beliche", "quantidadeAdultos": 0, "quantidadeCriancas": 2},
+      {"id":2, "quantidade": 55, "tipo": "KingSize", "quantidadeAdultos": 2, "quantidadeCriancas": 0},
+      {"id":3, "quantidade": 2, "tipo": "Solteiro", "quantidadeAdultos": 1, "quantidadeCriancas": 0},
+      {"id":4, "quantidade": 2, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCriancas": 1}
     ],
    "tipoDeQuartos": [
       {"id":1, "quantidadeTotal": 5, "preco": 79.50},
