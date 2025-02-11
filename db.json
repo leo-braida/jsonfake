@@ -1,9 +1,9 @@
 {
    "tipoDeCama": [
-      {"id":1, "quantidade": 5, "tipo": "Beliche", "quantidadeAdultos": 0, "quantidadeCriancas": 2, "hotel": "HoteLeo"},
-      {"id":2, "quantidade": 55, "tipo": "KingSize", "quantidadeAdultos": 2, "quantidadeCriancas": 0, "hotel": "HoteLeo"},
-      {"id":3, "quantidade": 2, "tipo": "Solteiro", "quantidadeAdultos": 1, "quantidadeCriancas": 0, "hotel": "oTheo"},
-      {"id":4, "quantidade": 2, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCriancas": 1, "hotel": "Hotel Hotel"}
+      {"id":1, "tipo": "Beliche", "quantidadeAdultos": 0, "quantidadeCriancas": 2},
+      {"id":2, "tipo": "KingSize", "quantidadeAdultos": 2, "quantidadeCriancas": 0},
+      {"id":3, "tipo": "Solteiro", "quantidadeAdultos": 1, "quantidadeCriancas": 0},
+      {"id":4, "tipo": "Berço", "quantidadeAdultos": 0, "quantidadeCriancas": 1}
     ],
    "hospedes": [
       {"id": 1, "nome": "hospede1", "telefone": "11111111111", "email": "email1", "cpf": "111111111", "estado": "estado1", "cidade":"cidade1", "cep": "11111-111", "bairro": "bairro1", "logradouro": "logradouro1", "numero": "1", "complemento":"", "genero": "masc", "dataNasc": "2000-02-15"},
