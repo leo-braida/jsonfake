@@ -20,9 +20,9 @@
       {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preco": 56.8},
       {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10}
     ],
-    "trabalhadores":[
-        {"id":1, "nome":"Léo Braida", "telefone":"32912312312", "email":"leo@email.exemplo","estado":"MG", "cidade":"Juiz de Fora", "cep":"36363-636",  "bairro":"bairro 1", "logradouro":"rua 1", "numeroMoradia":"10", "complemento":"", "genero": "Masculino", "senha":"senhaBacana", "dataNascimento":"07-07-2007", "cpf":"111111111-11", "cargo":"Administrador", "hotel": "HoteLeo"},
-        {"id":2, "nome":"Lorran Henrique", "telefone":"11932132132", "email":"lorran@gmail.com", "estado":"PA", "cidade":"Fora do Juiz", "cep":"12312-312", "bairro":"Dona Lurdes", "logradouro":"rua 2", "numeroMoradia":"20", "complemento":"B305", "genero": "Masculino", "senha": "senhaPaia", "dataNascimento":"01-01-2001", "cpf":"222222222-22", "cargo":"funcionario", "hotel": "oTheo"},
-        {"id":3, "nome":"Mateus Mauricio", "telefone":"02901230123", "email":"mateus@yahoo.com.br", "estado":"RJ", "cidade":"Cuiabá", "cep":"41023-987", "bairro":"Bairro 4", "logradouro":"rua 3", "numeroMoradia":"30", "complemento":"Z1987", "genero": "Feminino", "senha": "senhaMaisOuMenos", "dataNascimento":"09-09-2009", "cpf":"999999999-00", "cargo":"gerente", "hotel": "Hotel Hotel"}
-      ]
+    "cargos": [
+      {"id":1, "nome": "Administrador", "descricao": "Gerenciar o sistema e os gerentes."},
+      {"id":2, "nome": "Gerente", "descricao": "Gerenciar funcionarios e realizar tarefas que demandam maior autoridade."},
+      {"id":3, "nome": "Funcionario", "descricao": "Gerenciar e realizar tarefas operacionais tais como serviços, hospedagens, quartos."}
+    ]
 }
