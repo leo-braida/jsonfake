@@ -18,7 +18,8 @@
    "itens": [
       {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preco": 38.78, "hotel": "Hotel Hotel"},
       {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preco": 56.8, "hotel": "oTheo"},
-      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10, "hotel": "HoteLeo"}
+      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10.00, "hotel": "HoteLeo"},
+      {"id":4, "quantidadeEmEstoque": 100, "nome": "Água mineral 500ml", "preco":5.50, "hotel": "HoteLeo"}
     ],
     "cargos": [
       {"id":1, "nome": "Administrador", "descricao": "Gerenciar o sistema e os gerentes."},
