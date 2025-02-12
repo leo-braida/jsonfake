@@ -16,9 +16,9 @@
       {"id": 3, "dataChegada": "2024-12-30", "dataSaida": "2024-01-03", "hospede": "Roberto", "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel"}
    ],
    "itens": [
-      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preco": 38.78},
-      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preco": 56.8},
-      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10}
+      {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preco": 38.78, "hotel": "Hotel Hotel"},
+      {"id":2, "quantidadeEmEstoque": 8, "nome": "Tv", "preco": 56.8, "hotel": "oTheo"},
+      {"id":3, "quantidadeEmEstoque": 2, "nome": "Frigobar", "preco": 10, "hotel": "HoteLeo"}
     ],
     "cargos": [
       {"id":1, "nome": "Administrador", "descricao": "Gerenciar o sistema e os gerentes."},
