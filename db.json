@@ -11,9 +11,9 @@
       {"id": 1, "nome": "hospede3", "telefone": "33333333333", "email": "email3", "cpf": "33333333333", "estado":"estado3", "cidade":"cidade3", "cep": "33333-333", "bairro": "bairro3", "logradouro": "logradouro3", "numero": "3", "complemento": "", "genero": "masc", "dataNasc": "2007-07-07"}
     ],
    "reservas": [
-      {"id": 1, "dataChegada": "2004-01-12", "dataSaida": "2004-01-15", "hospede": "Beatriz", "tipoDeQuarto": "Quarto Romântico", "hotel": "HoteLeo"},
-      {"id": 2, "dataChegada": "1998-04-10", "dataSaida": "1998-04-20", "hospede": "Léo", "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo"},
-      {"id": 3, "dataChegada": "2024-12-30", "dataSaida": "2024-01-03", "hospede": "Roberto", "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel"}
+      {"id": 1, "dataChegada": "2004-01-12", "dataSaida": "2004-01-15", "hospede": "Beatriz", "tipoDeQuarto": "Quarto Romântico", "hotel": "HoteLeo", "extras": "1x TV"},
+      {"id": 2, "dataChegada": "1998-04-10", "dataSaida": "1998-04-20", "hospede": "Léo", "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo", "extras": "1x TV\n1x Frigobar"},
+      {"id": 3, "dataChegada": "2024-12-30", "dataSaida": "2024-01-03", "hospede": "Roberto", "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel", "extras": "1x Berço"}
    ],
    "itens": [
       {"id":1, "quantidadeEmEstoque": 5, "nome": "Airfreyer", "preco": 38.78, "hotel": "Hotel Hotel"},
