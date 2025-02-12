@@ -12,7 +12,7 @@
     ],
    "reservas": [
       {"id": 1, "chegada": "2004-01-12T10:30:00", "saida": "2004-01-15T10:00:00", "hospede": "Beatriz", "tipoDeQuarto": "Quarto Romântico", "hotel": "HoteLeo", "itensExtras": "1x TV", "camasExtras": ""},
-      {"id": 2, "chegada": "1998-04-10T11:00:00", "saida": "1998-04-20T17:00:00", "hospede": "Léo", "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo", "extras": "1x TV\n1x Frigobar", "camasExtras": ""},
+      {"id": 2, "chegada": "1998-04-10T11:00:00", "saida": "1998-04-20T17:00:00", "hospede": "Léo", "tipoDeQuarto": "Quarto Infantil", "hotel": "oTheo", "itensExtras": "1x TV\n1x Frigobar", "camasExtras": ""},
       {"id": 3, "chegada": "2024-12-30T13:00:00", "saida": "2024-01-03T18:00:00", "hospede": "Roberto", "tipoDeQuarto": "Quarto Família", "hotel": "Hotel Hotel", "itensExtras": "", "camasExtras": "1x Berço"}
    ],
    "itens": [
