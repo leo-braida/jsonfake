@@ -24,6 +24,6 @@
     "cargos": [
       {"id":1, "nome": "Administrador", "descricao": "Gerenciar o sistema e os gerentes."},
       {"id":2, "nome": "Gerente", "descricao": "Gerenciar funcionarios e realizar tarefas que demandam maior autoridade."},
-      {"id":3, "nome": "Funcionario", "descricao": "Gerenciar e realizar tarefas operacionais tais como serviços, hospedagens, quartos."}
+      {"id":3, "nome": "Funcionário", "descricao": "Gerenciar e realizar tarefas operacionais tais como serviços, hospedagens, quartos."}
     ]
 }
